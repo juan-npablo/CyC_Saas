@@ -1,2 +1,2 @@
-# CyC_APP_BARBER_PR
-A Standard barbershop app for use like a Saas
+# CyC_Saas
+Repositorio para sistemas saas de administración de citas para diferentes tipos de negocios
